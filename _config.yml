@@ -12,6 +12,8 @@ sass:
 title: "BitDevs South Florida"
 description: "BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
 
+url: https://BitDevsSouthFlorida.github.io
+
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
 
