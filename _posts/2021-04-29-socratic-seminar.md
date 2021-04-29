@@ -24,6 +24,7 @@ meetup: https://www.meetup.com/BitDevs-South-Florida/events/277549060/
 ## Network Data
 
 - [Taproot activation](https://taproot.watch/)
+- [Large drop in hashrate](https://twitter.com/MustafaYilham/status/1384278278400208896)
 
 ## Research
 
