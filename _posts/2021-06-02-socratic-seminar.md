@@ -16,6 +16,8 @@ meetup: https://www.meetup.com/BitDevs-South-Florida/events/277343669/
 
 ## lightning-dev mailing list
 
+- [On Mempool Funny Games against Multi-Party Funded Transactions](https://www.mail-archive.com/lightning-dev@lists.linuxfoundation.org/msg02287.html)
+
 
 ## Bitcoin Optech
 
@@ -37,6 +39,7 @@ meetup: https://www.meetup.com/BitDevs-South-Florida/events/277343669/
 
 - [Remote multisig theft attack on the Coldcard hardware wallet](https://shiftcrypto.ch/blog/remote-multisig-theft-attack-on-the-coldcard-hardware-wallet/)
 - [Malicious tor exit relays perform SSL stripping attacks on users visiting Bitcoin mixers](https://therecord.media/thousands-of-tor-exit-nodes-attacked-cryptocurrency-users-over-the-past-year/)
+
 
 ## Bitcoin Core Pull Requests
 
