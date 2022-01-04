@@ -9,13 +9,13 @@ sass:
   style: :compressed
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "BitDevs South Florida"
+title: "BitDevs Tampa"
 description: "BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
 
-url: https://BitDevsSouthFlorida.github.io
+url: https://bitdevstampa.herokuapp.com
 
 future: true
 
 # Leave out some files
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache', 'vendor']
 

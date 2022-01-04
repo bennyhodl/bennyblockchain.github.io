@@ -7,7 +7,7 @@ the research and development of Bitcoin and related protocols. You can be well
 versed with or new to the topics, all are welcome. Be advised: discussion will
 be technical.
 
-This meetup is the South Florida/Miami chapter of [BitDevs in NYC](www.bitdevs.org). 
+This meetup is the Tampa chapter of [BitDevs in NYC](www.bitdevs.org). 
 
 ### Socratic Seminars
 
