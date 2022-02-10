@@ -21,6 +21,7 @@ meetup: https://www.meetup.com/Tampa-Bay-Bitcoin/events/283660284/
 - [Fee Accounts](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019724.html)
 
 ## Lightning
+- [Sensei Node Implementation](https://twitter.com/JohnCantrell97/status/1491135343604957187)
 - [Split payments within one LN invoice](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003412.html)
 - [Lightning node operators guide](https://github.com/aljazceru/lightning-network-node-operator)
 - [Payment sender authentication](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003422.html)
