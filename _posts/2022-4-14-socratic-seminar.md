@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 4"
-meetup: https://www.meetup.com/Tampa-Bay-Bitcoin/events/284449312/ 
+title: "Socratic Seminar 5"
+meetup: https://www.meetup.com/Tampa-Bay-Bitcoin/events/284449318/ 
 ---
 
 ## News
