@@ -34,4 +34,5 @@ meetup: https://www.meetup.com/Tampa-Bay-Bitcoin/events/284449325/
    * [Cash App Announcement](https://twitter.com/futurepaul/status/1512059407768727552)
 * [Lightning Liquidity Explained](https://twitter.com/StephenDeLorme/status/1521245135316701184)
    * [Full post](https://bitcoin.design/guide/how-it-works/liquidity/)
+* [Pickhardt Payments](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-March/003510.html)
 
