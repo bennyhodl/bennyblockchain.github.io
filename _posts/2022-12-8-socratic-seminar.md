@@ -19,3 +19,6 @@ meetup: https://www.meetup.com/tampa-bay-bitcoin/events/289614215/
 * [Channel Jammin Attack](https://bitcoinops.org/en/topics/channel-jamming-attacks/)
 * [LNSploit](https://www.nakamoto.codes/BitcoinDevShop/LNsploit)
 
+## Bitcoin Bay
+* [Bay Wallet](https://github.com/bennyhodl/bitcoinbay-wallet)
+
