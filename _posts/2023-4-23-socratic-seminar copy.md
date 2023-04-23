@@ -13,4 +13,4 @@ meetup: https://bitcoinbay.live
 
 ## Sovereign
 * [BlockSpaces](https://www.blockspaces.com/bitcoin-quickbooks)
-* [Voltag](https://voltage.cloud)
+* [Voltage](https://voltage.cloud)
