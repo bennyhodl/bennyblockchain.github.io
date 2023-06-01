@@ -19,6 +19,7 @@ meetup: https://bitcoinbay.live
 * [Ark](https://www.arkpill.me/)
 * [Tap (Taro)](https://lightning.engineering/posts/2023-05-16-taproot-assets-v0.2/)
 * [Mutiny Wallet](https://mutinywallet.com/)
+* [Last Pay Wins](https://www.lastpaywins.com/)
 
 ## Ordinals
 * [The BRC-20 Experiment](https://domo-2.gitbook.io/brc-20-experiment/)
