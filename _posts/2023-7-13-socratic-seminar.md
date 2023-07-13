@@ -32,5 +32,13 @@ meetup: https://bitcoinbay.live/events
 * [Signet! (kinda)](https://github.com/bennyhodl/baywallet/pull/55)
 * [Big UI Refactor](https://github.com/bennyhodl/baywallet/pull/53)
 * [iOS & Android Build](https://github.com/bennyhodl/baywallet/pull/37)
+* [Stored Payments](https://github.com/synonymdev/react-native-ldk/pull/130)
 * [Better chain backend](https://github.com/bennyhodl/baywallet/pull/34)
-* Demo!
+
+## Upcoming
+* SQLite storage for caching
+* Nostr event extraction
+* Inbound connections
+* Flow v2 channels
+
+## Demo!
