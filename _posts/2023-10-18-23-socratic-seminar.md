@@ -12,6 +12,7 @@ meetup: https://bitcoinbay.live/events
 # Lightning
 * [Bitcoin Bay Bartender](https://github.com/supertestnet/tapleaf-circuits)
 * [Mutiny Wallet Payment Reliability](https://blog.mutinywallet.com/fixing-payment-reliability/)
+* [Taproot Assets](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
 
 # Bitcoin
 * [Covenant tools softfork](https://github.com/bitcoin/bitcoin/pull/28550)
