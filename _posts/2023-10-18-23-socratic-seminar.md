@@ -8,6 +8,7 @@ meetup: https://bitcoinbay.live/events
 # News
 * [Block Mining Update](https://www.mining.build/update-on-the-mining-development-kit/)
 * [Invalid lock in mining pool](https://b10c.me/observations/07-invalid-block-809478/)
+* [Bitcoin Search](chat.bitcoinsearch.xyz)
 
 # Lightning
 * [Bitcoin Bay Bartender](https://github.com/supertestnet/tapleaf-circuits)
