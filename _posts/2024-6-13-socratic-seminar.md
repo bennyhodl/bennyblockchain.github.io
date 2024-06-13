@@ -1,25 +1,21 @@
 ---
 layout: post
 type: socratic
-title: "BitDevs 19"
+title: "BitDevs 20"
 meetup: https://bitcoinbay.live/events
 ---
 
-# News
-* [BTC<>XMR Samourai](https://news.bitcoin.com/samourai-wallet-unveils-privacy-enhancing-btc-to-xmr-atomic-swaps-in-beta-launch/)
-    * [BTC<>XMR Swap Paper](https://arxiv.org/pdf/2101.12332.pdf)
-* *No one cares about OCEAN anymore*
-* [Ordinals build cool stuff](https://www.ord.io/56101855)
-
 # Bitcoin
-* [Mercury Statechains](https://mercurylayer.com/)
-* [Version 2 P2P Transport *BIP 324*](https://github.com/dhruv/bips/blob/bip324/bip-0324.mediawiki)
-    * [Enabled by default](https://github.com/bitcoin/bitcoin/pull/29239)
-* [Bitcoin Clique](https://eprint.iacr.org/2024/025.pdf)
-* [Version 3 transaction relay](https://bitcoinops.org/en/topics/version-3-transaction-relay/)
-
+* [Divergent Mempool Fees](https://x.com/mononautical/status/1799864532094824726)
+* [Anatomy of a Coinjoin](https://medium.com/samourai-wallet/introducing-whirlpool-surge-cycles-b5b484a1670f)
+    *[Real Example](https://mempool.space/tx/d66520a1e4a38bbca788e70bce95803d62850441eab6ddee7645f6addbc25c48)
+    *[UTXO Supplemental](https://learnmeabitcoin.com/technical/transaction/#:~:text=A%20raw%20bitcoin%20transaction%20is,format%20the%20data%20is%20in.)
+* [DNS-based human-readable Bitcoin payment instructions](https://bitcoinops.org/en/newsletters/2024/02/21/#dns-based-human-readable-bitcoin-payment-instructions)
+* [Silent Payments](https://silentpayments.xyz)
+    * [BIP & Goals](https://en.bitcoin.it/wiki/BIP_0352)
+    * [Historical Discussions](https://bitcoinops.org/en/topics/silent-payments/)
 
 # Lightning
-* [Lightning Symmetry (eltoo) Impl](https://github.com/instagibbs/lightning/tree/eltoo_support)
-* [LND Roadmap](https://docs.google.com/presentation/d/1q32DMBa8_cS_Hb5L-WF289_XSUa_YqvDGO2pCouSp7g/edit#slide=id.geef753576e_0_0)
-* [Rethinking Lightning](https://docs.google.com/presentation/d/1q32DMBa8_cS_Hb5L-WF289_XSUa_YqvDGO2pCouSp7g/edit#slide=id.geef753576e_0_0)
+* [LND 0.18](https://lightning.engineering/posts/2024-05-30-lnd-0.18-launch/)
+* [ECash Interoperability](https://github.com/fedimint/fedimint/pull/5391)
+    * [Cashu](https://x.com/CashuBTC/status/1793542343863505076)
